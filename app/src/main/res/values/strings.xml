@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NewsList</string>
+    <string name="tittleLog">Page de Login</string>
+    <string name="tittleNews">Page de News</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRetour">BACK</string>
+    <string name="btnDetails">Details</string>
+    <string name="btnLogout">Logout</string>
+    <string name="btnValider">OK</string>
+    <string name="btnAbout">ABOUT</string>
+    <string name="textID" />
+    <string name="textPW" />
+    <string name="lblID">Identifiant</string>
+    <string name="lblPW">Mot de passe</string>
+    <string name="lblLogin">login</string>
+    <string name="lblLogin2">login</string>
+
+</resources>
